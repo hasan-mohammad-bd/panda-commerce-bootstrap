@@ -11,6 +11,12 @@
     color: rgb(255, 255, 255);
     border-radius: 5px;
     border: none;
+    transition:transform 0.3s ease-in;
+}
+
+.panda-btn:hover {
+    transform:scale(1.05);
+    background-color: #862248;
 }
 
 .yellow {
