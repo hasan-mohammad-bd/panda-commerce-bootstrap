@@ -1,0 +1,30 @@
+.panda-color-light {
+    background-color: #FCEAE8;
+}
+.panda-color-pink {
+    color: #FE438A;
+}
+
+.panda-btn {
+    padding: 10px 20px;
+    background-image: linear-gradient(rgb(255, 88, 155) 0%, rgb(255, 19, 111) 100%);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    border: none;
+}
+
+.yellow {
+    background-color: #FFA500;
+}
+
+.purple {
+    background-color: #DA70D6;
+}
+
+.blue {
+    background-color: #0000FF;
+}
+
+.panda-mt {
+    margin-top: 100px;
+}
